@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="p_6" size="1200.000000 1600.000000" />
+    <ImageTarget name="p_5" size="1600.000000 1200.000000" />
+    <ImageTarget name="p_4" size="1200.000000 1600.000000" />
+    <ImageTarget name="p_3" size="1200.000000 1600.000000" />
+    <ImageTarget name="p_1" size="1600.000000 1200.000000" />
+    <ImageTarget name="img_20240124_175755563_hdr" size="3120.000000 4160.000000" />
+    <ImageTarget name="img_20230117_070309240_hdr" size="4160.000000 3120.000000" />
+  </Tracking>
+</QCARConfig>
