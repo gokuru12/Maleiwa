@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="osohormiguero" size="1500.000000 708.000000" />
     <ImageTarget name="sello-1" size="1200.000000 1604.010010" />
     <ImageTarget name="p_6" size="1200.000000 1600.000000" />
     <ImageTarget name="p_3" size="1200.000000 1600.000000" />
