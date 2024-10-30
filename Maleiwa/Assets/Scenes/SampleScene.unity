@@ -730,7 +730,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1396295121}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 63b4960601f4ed248ac0d276992337e7, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 5a0823ee1f88af249ab66e4536ca0e5a, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -800,7 +800,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 0825c25bb2fc3a54b835147b524a2428, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -840,7 +840,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
+  m_LocalScale: {x: 0.010609382, y: 0.009920815, z: 0.004648522}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1429755822}
@@ -971,8 +971,8 @@ MonoBehaviour:
   mDataSetPath: Vuforia/Imagenes.xml
   mAspectRatio: 0.472
   mImageTargetType: 0
-  mWidth: 1.059322
-  mHeight: 0.5
+  mWidth: 0.06355932
+  mHeight: 0.030000001
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
