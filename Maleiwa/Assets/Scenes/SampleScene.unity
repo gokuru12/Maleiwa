@@ -566,7 +566,7 @@ GameObject:
   - component: {fileID: 954167246}
   - component: {fileID: 954167249}
   m_Layer: 0
-  m_Name: ImageTarget
+  m_Name: Prueba 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -730,7 +730,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1396295121}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: c89301a8c2e64c44186b14dd6a517332, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 63b4960601f4ed248ac0d276992337e7, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -858,7 +858,7 @@ GameObject:
   - component: {fileID: 1429755820}
   - component: {fileID: 1429755819}
   m_Layer: 0
-  m_Name: ImageTarget (1)
+  m_Name: Tamandua
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
